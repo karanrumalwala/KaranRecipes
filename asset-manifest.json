@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/KaranRecipes/static/css/main.5a771f6c.chunk.css",
+    "main.js": "/KaranRecipes/static/js/main.e3fcf4b9.chunk.js",
+    "main.js.map": "/KaranRecipes/static/js/main.e3fcf4b9.chunk.js.map",
+    "runtime~main.js": "/KaranRecipes/static/js/runtime~main.8dd72ee8.js",
+    "runtime~main.js.map": "/KaranRecipes/static/js/runtime~main.8dd72ee8.js.map",
+    "static/js/2.6462b962.chunk.js": "/KaranRecipes/static/js/2.6462b962.chunk.js",
+    "static/js/2.6462b962.chunk.js.map": "/KaranRecipes/static/js/2.6462b962.chunk.js.map",
+    "index.html": "/KaranRecipes/index.html",
+    "precache-manifest.aa80f06c2f7b8529d71a7bf0d9667c33.js": "/KaranRecipes/precache-manifest.aa80f06c2f7b8529d71a7bf0d9667c33.js",
+    "service-worker.js": "/KaranRecipes/service-worker.js",
+    "static/css/main.5a771f6c.chunk.css.map": "/KaranRecipes/static/css/main.5a771f6c.chunk.css.map"
+  }
+}
